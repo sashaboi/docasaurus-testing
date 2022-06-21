@@ -5,31 +5,37 @@ import "./showcase.css";
 export default function index() {
   const listofThingstoMap = [
     {
-      name: "Onkar",
+      name: "Tushar",
       surname: "Deshpande",
       link: "facebook.com",
       github: "sashaboi",
     },
     {
-      name: "Onkar",
+      name: "Kuldeep",
       surname: "Deshpande",
       link: "facebook.com",
       github: "sashaboi",
     },
     {
-      name: "Onkar",
+      name: "Bhavya",
       surname: "Deshpande",
       link: "facebook.com",
       github: "sashaboi",
     },
     {
-      name: "Onkar",
+      name: "Vikrant",
       surname: "Deshpande",
       link: "facebook.com",
       github: "sashaboi",
     },
     {
-      name: "Onkar",
+      name: "Ravi",
+      surname: "Deshpande",
+      link: "facebook.com",
+      github: "sashaboi",
+    },
+     {
+      name: "Chirag",
       surname: "Deshpande",
       link: "facebook.com",
       github: "sashaboi",
