@@ -1,0 +1,12 @@
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.user-card {
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+}
