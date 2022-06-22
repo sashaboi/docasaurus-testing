@@ -3,4 +3,4 @@ example: examples/**/*
 repository: packages/repository/*
 add to showcase:
 - '*'
-add to showcase: src/*
+bug: src/*
