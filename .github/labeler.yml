@@ -1,5 +1,5 @@
 docs: docs/*
 example: examples/**/*
 repository: packages/repository/*
-repo:
+add to showcase:
 - '*'
