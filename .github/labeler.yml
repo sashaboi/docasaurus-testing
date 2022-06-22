@@ -1,3 +1,5 @@
 docs: docs/*
 example: examples/**/*
 repository: packages/repository/*
+repo:
+- '*'
