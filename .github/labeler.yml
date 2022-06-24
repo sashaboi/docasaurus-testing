@@ -2,5 +2,5 @@ docs: docs/*
 example: examples/**/*
 repository: packages/repository/*
 add to showcase:
-- '*'
+- src/**/*
 bug: src/*
