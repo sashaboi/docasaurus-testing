@@ -5,6 +5,12 @@ import "./showcase.css";
 export default function index() {
   const listofThingstoMap = [
     {
+      name: "Kuldeep",
+      surname: "kuldeep",
+      link: "kuleep.com",
+      github: "kuldeep",
+    },
+    {
       name: "Darshan",
       surname: "Damre",
       link: "darshan.com",
@@ -51,7 +57,7 @@ export default function index() {
       surname: "Deshpande",
       link: "facebook.com",
       github: "sashaboi",
-    },
+      },
   ];
   return (
     <Layout>
