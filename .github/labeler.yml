@@ -1,0 +1,6 @@
+docs: docs/*
+example: examples/**/*
+repository: packages/repository/*
+add to showcase:
+- '*'
+bug: src/*

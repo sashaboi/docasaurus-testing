@@ -8,7 +8,14 @@ export default function index() {
       name: "bot test 1",
       surname: "Deshpande",
       link: "facebook.com",
-      github: "sashaboi",
+      github: "darshan",
+    },
+    {
+      name: "Darshan",
+      surname: "Damre",
+      link: "darshan.com",
+      github: "darshan",
+
     },
     {
       name: "Tushar",
