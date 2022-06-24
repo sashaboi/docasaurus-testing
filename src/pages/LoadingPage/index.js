@@ -5,7 +5,7 @@ import "./showcase.css";
 export default function index() {
   const listofThingstoMap = [
     {
-      name: "Kuldeep2",
+      name: "Kuldeep23",
       surname: "kuldeep",
       link: "kuleep.com",
       github: "kuldeep",
