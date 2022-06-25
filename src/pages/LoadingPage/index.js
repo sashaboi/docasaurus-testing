@@ -4,6 +4,12 @@ import { uuid as v4 } from "uuid";
 import "./showcase.css";
 export default function index() {
   const listofThingstoMap = [
+     {
+      name: "Soham",
+      surname: "shah",
+      link: "facbook.com",
+      github: "sohamshah",
+    },
     {
       name: "Kuldeep2",
       surname: "kuldeep",
