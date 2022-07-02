@@ -29,7 +29,7 @@ function ShowcaseCards({ user }) {
   return (
     <div className="showcase-card-wrapper">
       <img
-        src="https://docusaurus.io/assets/ideal-img/algolia.1026fe5.640.png"
+        src={user.preview}
         alt="Project Thumbnail"
         className="showcase-card-thumbnail"
       />
