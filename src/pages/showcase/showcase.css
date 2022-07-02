@@ -1,0 +1,15 @@
+.showcase-wrapper {
+  margin: 4rem;
+}
+
+.filter-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.showcase-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
