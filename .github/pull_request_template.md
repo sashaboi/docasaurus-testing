@@ -6,7 +6,8 @@ Happy contributing!
 
 ## Mockbee showcase submission
 
-    We at Mockbee thank you for applying to showcase your project. OVer 1800 projects have been made using this repo in the span of less than 6 months, and we are amazed at the resiliance Neograds have shown. Please submit your best projects , for future generations , and stand to win a favourite tag from our mentors !
+We at Mockbee thank you for applying to showcase your project. 
+Over 1800 projects have been made using this repo in the span of less than 6 months, and we are amazed at the resiliance Neograds have shown. Please submit your best projects , for future generations , and stand to win a favourite tag from our mentors !
 
 ## Pre-flight checklist
 
