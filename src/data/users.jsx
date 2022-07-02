@@ -79,4 +79,12 @@ export const users = [
     source: "https://github.com/agile-ts/documentation",
     tags: ["opensource", "design"],
   },
+  {
+    title: "Harshit",
+    description: "Global State and Logic Framework for reactive Applications",
+    preview: require("./showcase/agilets.png"),
+    website: "https://agile-ts.org/",
+    source: "https://github.com/agile-ts/documentation",
+    tags: ["opensource", "design"],
+  },
 ];
