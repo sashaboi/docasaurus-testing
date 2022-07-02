@@ -36,7 +36,7 @@ const ShowcaseHeader = () => {
       <p>List of projetcs people are building with Mockbee</p>
       <a
         className="button button--primary"
-        href="#"
+        href="https://github.com/sashaboi/docasaurus-testing/edit/master/src/data/users.jsx"
         target="_blank"
         rel="noreferrer"
       >
