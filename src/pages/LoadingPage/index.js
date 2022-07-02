@@ -11,7 +11,7 @@ export default function index() {
       github: "sohamshah",
     },
     {
-      name: "Kuldeep2",
+      name: "Kuldeep23",
       surname: "kuldeep",
       link: "kuleep.com",
       github: "kuldeep",
