@@ -40,6 +40,14 @@ Thank you for submitting!
 
 export const users = [
   {
+    title: "OnkarDemo2",
+    description: "Onkar Demo 2 for kuldeep imageplugin",
+    preview: require("./showcase/onkarimage2.png"),
+    website: "https://.google.com",
+    source: "https://github.com/sashaboi",
+    tags: ["opensource", "design", "Onkar","demo2"],
+  },
+  {
     title: "OnkarDemoFroKuldeep",
     description: "Onkar Demo for kuldeep desc",
     preview: require("./showcase/onkardemp.png"),
