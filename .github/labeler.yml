@@ -1,6 +1,0 @@
-docs: docs/*
-example: examples/**/*
-repository: packages/repository/*
-add to showcase:
-  - src/data/*
-bug: src/*
