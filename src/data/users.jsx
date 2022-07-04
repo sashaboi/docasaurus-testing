@@ -42,15 +42,15 @@ export const users = [
   {
     title: "OnkarDemoFroKuldeep",
     description: "Onkar Demo for kuldeep desc",
-    preview: "./showcase/onkardemp.png",
+    preview: require("./showcase/onkardemp.png"),
     website: "https://.google.com",
     source: "https://github.com/sashaboi",
-    tags: ["opensource", "design","Onkar"],
+    tags: ["opensource", "design", "Onkar"],
   },
   {
     title: "AgileTs",
     description: "Global State and Logic Framework for reactive Applications",
-    preview: "./showcase/agilets.png",
+    preview: require("./showcase/agilets.png"),
     website: "https://agile-ts.org/",
     source: "https://github.com/agile-ts/documentation",
     tags: ["opensource", "design"],
@@ -58,7 +58,7 @@ export const users = [
   {
     title: "OnkarTest",
     description: "Onkar Deshpande trial for pr merge",
-    preview: "./showcase/agilets.png",
+    preview: require("./showcase/agilets.png"),
     website: "http://www.birdseyeindia.com/",
     source: "https://github.com/sashaboi",
     tags: ["good", "boy"],
@@ -66,7 +66,7 @@ export const users = [
   {
     title: "AgileTs",
     description: "Global State and Logic Framework for reactive Applications",
-    preview: "./showcase/agilets.png",
+    preview: require("./showcase/agilets.png"),
     website: "https://agile-ts.org/",
     source: "https://github.com/agile-ts/documentation",
     tags: ["opensource", "design"],
@@ -74,7 +74,7 @@ export const users = [
   {
     title: "AgileTs",
     description: "Global State and Logic Framework for reactive Applications",
-    preview: "./showcase/agilets.png",
+    preview: require("./showcase/agilets.png"),
     website: "https://agile-ts.org/",
     source: "https://github.com/agile-ts/documentation",
     tags: ["opensource", "design"],
@@ -82,7 +82,7 @@ export const users = [
   {
     title: "AgileTs",
     description: "Global State and Logic Framework for reactive Applications",
-    preview: "./showcase/agilets.png",
+    preview: require("./showcase/agilets.png"),
     website: "https://agile-ts.org/",
     source: "https://github.com/agile-ts/documentation",
     tags: ["opensource", "design"],

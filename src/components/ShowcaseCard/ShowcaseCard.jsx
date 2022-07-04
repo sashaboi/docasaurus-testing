@@ -1,5 +1,6 @@
 import React from "react";
 import CardFilterChip from "../CardFilterChip/CardFilterChip";
+import Image from "@theme/IdealImage";
 import "./ShowcaseCard.css";
 
 const filters = [
@@ -28,9 +29,9 @@ const filters = [
 function ShowcaseCards({ user }) {
   return (
     <div className="showcase-card-wrapper">
-      <img
-        src={user.preview}
-        alt="Project Thumbnail"
+      <Image
+        img={user.preview}
+        alt={user.title}
         className="showcase-card-thumbnail"
       />
       <div className="showcase-card-header">
